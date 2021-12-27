@@ -1,0 +1,130 @@
+body {
+    background-color: rgb(76, 7, 122);
+}
+label{
+    color: white;
+    text-align: left;
+    font-weight: bold;
+    float: left;
+}
+li{
+    color: white;
+    list-style-type: none;
+}
+#header .navbar {
+    background:linear-gradient(to right , rgb(0, 0, 0) , rgb(110, 107, 107) , rgb(81, 77, 83)) ;
+}
+
+#header .navbar img {
+    width: 80px;
+    height: 40px;
+}
+#header .navbar ul li .nav-link {
+color: rgb(255, 255, 255);
+font-weight: bold;
+}
+#header .navbar ul li .nav-link:hover {
+    background-color: rgb(117, 7, 7);
+    border-radius: 20px
+}
+#profile{
+    background-color: black;
+    padding: 100px 0px;
+    color: white;
+    margin-top: 40px;
+}
+.hl{
+    width: 50%;
+    margin: auto;
+    border-radius: 50%;
+    height: 4px;
+    background:linear-gradient(to right , white , red , white) ;
+}
+#profile hr {
+    border: 2px solid white;
+    border-radius: 30%;
+}
+.profile-img img{
+    width: 100%;
+    margin-top: 100px;
+    margin-right: 20px;
+}
+.profile-info h1{
+    font-family: 'Pushster', cursive;
+}
+.profile-info p{
+    font-family: 'Abril Fatface', cursive;
+    text-align: left;
+
+}
+.header-profile h1{
+    font-family: 'Moo Lah Lah', cursive;
+    font-size: 60px;
+    
+
+}
+#gallary {
+    margin-top: 40px;
+    background-color: black;
+}
+#gallary h1{
+    color: white;
+}
+#gallary hr {
+    border: 2px solid white;
+    border-radius: 30%;
+}
+#gallary img {
+    justify-content: space-around;
+    width: 27%;
+    padding: auto;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    border-radius: 30px;
+
+}
+#contact{
+    background-color: black;
+    margin-top: 40px;
+    position: relative;
+}
+#contact hr {
+    border: 2px solid white;
+    border-radius: 30%;
+}
+#contact h1 {
+    color: white;
+}
+#contact iframe{
+    margin-top: 30px;
+    width: 500px;
+    height: 300px;
+}
+#site-footer{
+    background-color: rgb(54, 52, 52);
+    margin-top: 40px;
+}
+#site-footer h4 {
+    color: rgb(224, 219, 219);
+    font-weight: bold;
+}
+#site-footer p{
+    color: rgba(233, 227, 227, 0.808);
+    font-weight: 600;
+    text-align: left;
+    font-size: 12px;
+
+}
+#site-footer ul li a{
+color: rgb(192, 187, 187);
+}
+ #site-footr .linne{
+     overflow: visible;
+    height: 4px;
+    color: rgb(216, 215, 215);
+}
+.copy-right{
+    font-size: 30px;
+}
+
+
